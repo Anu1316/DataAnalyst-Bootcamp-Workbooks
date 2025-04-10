@@ -1,5 +1,7 @@
 📚 Data Analysis Bootcamp | Weekly Workbooks & Projects
 
+Excel Power BI Tableau Python SQL Microsoft Azure
+
 Programme: Data Technician Bootcamp (UK)
 Tools Used: Excel, Power BI, Tableau, SQL, Python (Pandas), Microsoft Azure, Power Query, Matplotlib, DAX, VLOOKUP/XLOOKUP, PivotTables
 Focus Areas: Data Preparation, Analysis, Dashboarding, Visualisation, Cloud Services, SQL Queries, Python Scripting, GDPR & Data Ethics
