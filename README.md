@@ -1,31 +1,28 @@
-📚 Data Analysis Bootcamp | Weekly Workbooks & Projects
+# 📊 Data Analysis Bootcamp | Weekly Workbooks & Projects
 
-Excel Power BI Tableau Python SQL Microsoft Azure
+Welcome to the **Data Analysis Bootcamp**! This repository contains weekly workbooks, hands-on projects, and exercises designed to build and sharpen your data analysis skills using a variety of tools and technologies.
 
-Programme: Data Technician Bootcamp (UK)
-Tools Used: Excel, Power BI, Tableau, SQL, Python (Pandas), Microsoft Azure, Power Query, Matplotlib, DAX, VLOOKUP/XLOOKUP, PivotTables
-Focus Areas: Data Preparation, Analysis, Dashboarding, Visualisation, Cloud Services, SQL Queries, Python Scripting, GDPR & Data Ethics
+---
 
-📊 Overview
-This repository documents my learning journey as part of a data analysis bootcamp. Each workbook contains weekly tasks, reflections, and applied exercises across a range of data tools and scenarios — from Excel and Power BI labs to Python, SQL, and data ethics.
+## 🛠️ Tools & Technologies Used
 
-📂 Contents
-Week	Focus	Highlight
-Week 1	Excel & Data Governance	VLOOKUP, Pivot Tables, DPA, GDPR
-Week 2	Power BI & Dashboards	Spotify & NHS dashboards
-Week 3	SQL & Data Relationships	Inner/Outer Joins, RDBMS structure
-Week 5	Cloud Platforms & Visualisation	Azure Data Tools, Power BI design
-Week 6	Python & Data Wrangling	Pandas pivoting, matplotlib charts
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
 
-✅ Skills Developed
-Excel lookups, pivot tables, and automation functions
-RDBMS concepts and SQL query writing
-Power BI dashboarding and DAX basics
-Python for data wrangling and visualisation
-Understanding of GDPR, data ethics, and cloud services (Azure)
-Created interactive dashboards in Tableau Public for location-based and trend analyses using real-world datasets such as EMSI (UK Job Changes) and Spotify listening trends.
-Familiarity with cloud computing concepts and tools, including Azure data services
+## 📁 Folder Structure
 
-🎯 Reflections
-These workbooks reflect my progression as a data analyst in training — balancing technical skills, written analysis, and critical thinking. Each week presented new challenges and opportunities to build confidence across the data lifecycle.
+```plaintext
+Data-Analysis-Bootcamp/
+├── Excel/          → Excel workbooks for analysis
+├── PowerBI/        → Power BI dashboards (.pbix files)
+├── Tableau/        → Tableau visualizations (.twb/.twbx)
+├── Python/         → Jupyter notebooks, scripts
+├── SQL/            → SQL queries and schema files
+├── Azure/          → Cloud resources or deployment files
+└── README.md       → Project overview and usage guide
