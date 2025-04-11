@@ -26,3 +26,15 @@ Data-Analysis-Bootcamp/
 ├── Week 5 /        → SQL queries and schema files
 ├── Week 6 /        → Jupyter notebooks, scripts
 └── README.md       → Project overview and usage guide
+
+📌 Notes
+All datasets used are either open-source or dummy datasets.
+
+Weekly folders will be updated continuously.
+
+Feel free to fork and contribute ideas or improvements.
+
+🙌 Let's Connect
+Got questions or want to collaborate?
+
+📧 Email • 💼 LinkedIn • 🌐 Portfolio (add your own links here)
