@@ -19,10 +19,10 @@ Welcome to the **Data Analysis Bootcamp**! This repository contains weekly workb
 
 ```plaintext
 Data-Analysis-Bootcamp/
-├── Excel/          → Excel workbooks for analysis
-├── PowerBI/        → Power BI dashboards (.pbix files)
-├── Tableau/        → Tableau visualizations (.twb/.twbx)
-├── Python/         → Jupyter notebooks, scripts
-├── SQL/            → SQL queries and schema files
-├── Azure/          → Cloud resources or deployment files
+├── Week 1          → Excel workbooks for analysis
+├── Week 2 /        → Power BI dashboards (.pbix files)
+├── Week 2 /        → Tableau visualizations (.twb/.twbx)
+├── Week 3 /        → Cloud resources or deployment files
+├── Week 5 /        → SQL queries and schema files
+├── Week 6 /        → Jupyter notebooks, scripts
 └── README.md       → Project overview and usage guide
